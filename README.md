@@ -4,7 +4,9 @@ This repo contains the Python Notebook for Predicting the Online Intentions of a
 
 ### Technologies Used
 
-Python, Sci-kit Learn, TensorFlow
+* Python
+* Sci-kit Learn
+* TensorFlow
 
 ### Data Preprocessing Techniques Involved
 * One Hot Encoding of Categorial Features
