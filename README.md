@@ -1,6 +1,6 @@
 # Prediction of Online Customers' Intentions
 
-This repo contains the Python Notebook for Predicting the Online Intentions of a Shopper visiting a Retail Website. The goal of the project is to predict whether the buyer will make a purchase or not based on their behaviour which include features like "No. of clicks", "Time spent on th website", "Price of the previos purchase" and so on (represented in the dataset online_shoppers_intentions.csv). The goal of the project is to train ML models that would make predictions using Semisupervised Machine Learning. The approach tries to maximize the performance of the ML models with minimal labelled data.
+This repo contains the Python Notebook for Predicting the Online Intentions of a Shopper visiting a retail website. The goal of the project is to predict whether the buyer will make a purchase or not based on their behavior which include features like "No. of clicks", "Time spent on the website", "Price of the previous purchase" and so on (represented in the dataset online_shoppers_intentions.csv). The goal of the project is to train ML models that would make predictions using Semisupervised Machine Learning. The approach tries to maximize the performance of the ML models with minimal labelled data.
 
 ### Technologies Used
 
